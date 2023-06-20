@@ -10,8 +10,10 @@ Welcome to the DIY Lightsaber project repository! This repository showcases my j
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Proffie OS](#proffie-os)
 - [Hilt Designs](#hilt-designs)
 - [Wiring Diagram](#wiring-diagram)
+- [Resources/Credits](#resourcescredits)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -58,14 +60,14 @@ The repository is organized into several directories, each serving a specific pu
 
 Refer to the documentation within each directory for detailed instructions on using the respective files.
 
-### Hilt Designs
-
-The `Hilts` directory includes a variety of hilt designs I created using SolidWorks. Each design is provided as a separate render, allowing you to choose the one that appeals to you the most. Feel free to use those images as inspiration for your own design. 
-
 ### Proffie OS
 
 The `ProffieOS` directory includes the firmware used to flash the proffie board in order to customize the blade styles and sound fonts.
 The configs folder holds all of the custom configurations for the blade styles and the ProffieOS.ino file is used for flashing. 
+
+### Hilt Designs
+
+The `Hilts` directory includes a variety of hilt designs I created using SolidWorks. Each design is provided as a separate render, allowing you to choose the one that appeals to you the most. Feel free to use those images as inspiration for your own design. 
 
 ### Wiring Diagram
 

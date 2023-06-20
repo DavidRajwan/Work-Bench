@@ -4,7 +4,7 @@ The first project uploaded to this repository is a game based on the book "Pytho
 
 #### Description
 
-The game developed for this project is inspired by the book's project-based approach and aims to apply the concepts and techniques learned throughout the chapters. It serves as an interactive demonstration of my understanding and implementation of the concepts covered in the book.
+The game developed for this project is inspired by the book's project-based approach and aims to apply the concepts and techniques learned throughout the chapters. It serves as an interactive demonstration of my understanding and implementation of the concepts covered in the book. As well as showing my own additions and creativity to the game.
 
 #### Features
 

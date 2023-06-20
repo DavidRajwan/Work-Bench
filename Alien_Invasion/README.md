@@ -47,7 +47,7 @@ To run the game, follow these steps:
     python alien_invasion.py
     ```
 
-#### Credits
+#### Resources/Credits
 
 - **Book**: Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
 - **Author**: Eric Matthes

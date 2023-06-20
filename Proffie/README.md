@@ -1,6 +1,6 @@
 # DIY Lightsaber Project
 
-###DIY Lightsaber
+### Introduction
 
 Welcome to the DIY Lightsaber project repository! This repository showcases my journey in creating a custom lightsaber from scratch. I started by sketching my designs on paper, then utilized SolidWorks for CAD modeling. I 3D-printed my hilt designs and proceeded to sand and paint them to perfection. After that, I compiled the electronic parts, soldered them together following my custom wiring diagram, and assembled all the components. Finally, I created my own custom configurations, blade styles, and sound fonts, and flashed the Proffie board with the new software and configuration. This README will provide an overview of the project and guide you through the repository's contents.
 
@@ -58,18 +58,26 @@ The repository is organized into several directories, each serving a specific pu
 
 Refer to the documentation within each directory for detailed instructions on using the respective files.
 
-## Hilt Designs
+### Hilt Designs
 
 The `Hilts` directory includes a variety of hilt designs I created using SolidWorks. Each design is provided as a separate render, allowing you to choose the one that appeals to you the most. Feel free to use those images as inspiration for your own design. 
 
-## Proffie OS
+### Proffie OS
 
 The `ProffieOS` directory includes the firmware used to flash the proffie board in order to customize the blade styles and sound fonts.
 The configs folder holds all of the custom configurations for the blade styles and the ProffieOS.ino file is used for flashing. 
 
-## Wiring Diagram
+### Wiring Diagram
 
 The `Wiring` directory contains a comprehensive wiring diagram that illustrates the connections required for the Proffie board assembly. This diagram will guide you through the process of wiring the components correctly, ensuring a smooth and hassle-free build.
+
+## Resources/Credits
+
+- **ProffieOS**: https://github.com/profezzorn/ProffieOS
+- **Proffie Board**: http://fredrik.hubbe.net/lightsaber/v6/
+- **ProffieOS**: https://fett263.com/index.html
+- **Proffie Blade Style**: https://fett263.com/fett263-proffieOS6-style-library.html
+- **Mentors**: https://gobblerconnect.vt.edu/organization/lcvt
 
 ## Contributing
 

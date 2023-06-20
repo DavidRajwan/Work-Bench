@@ -8,7 +8,7 @@ This repository contains a collection of my home projects, including coding game
 ## Projects
 
 ### Project 1: Alien Invasion!
-### Project 2: Proffie/Lightsaber
+### Project 2: Lightsaber/Proffie
 ### Project 3: Data Visualization
 ### Project 4: Web Applications
 ### Project 5: Robot Operation System 

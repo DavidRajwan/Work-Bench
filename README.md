@@ -15,11 +15,17 @@ This repository contains a collection of my home projects, including coding game
 ### Project 6: Robot Operation System 
 ### Project 7: Open CV
 
-## Resources
+## Resources/Credit
 
 - **Book**: Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
 - **Author**: Eric Matthes
 - **Date**: 2019
+
+- **ProffieOS**: https://github.com/profezzorn/ProffieOS
+- **Proffie Board**: http://fredrik.hubbe.net/lightsaber/v6/
+- **ProffieOS**: https://fett263.com/index.html
+- **Proffie Blade Style**: https://fett263.com/fett263-proffieOS6-style-library.html
+- **Mentors**: https://gobblerconnect.vt.edu/organization/lcvt
 
 ## License
 

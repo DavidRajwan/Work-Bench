@@ -3,11 +3,16 @@ David Rajwan's DIY/Experimentation/Curiosity projects stored into a Work-Bench r
 
 # Home Projects Repository
 
-This repository contains a collection of my home projects, including coding games, robots, web-development, and experimentation with various programming languages. It serves as a showcase of my personal projects and a way to document my progress and learning journey.
+This repository contains a collection of my home projects, including coding games, robots, lightsabers, web-development, and experimentation with various programming languages. It serves as a showcase of my personal projects and a way to document my progress and learning journey.
 
 ## Projects
 
 ### Project 1: Alien Invasion!
+### Project 2: Proffie/Lightsaber
+### Project 3: Data Visualization
+### Project 4: Web Applications
+### Project 5: Robot Operation System 
+### Project 6: Open CV
 
 ## Resources
 

@@ -27,6 +27,7 @@ This repository contains a collection of my home projects, including coding game
 - **Proffie Board**: http://fredrik.hubbe.net/lightsaber/v6/
 - **ProffieOS**: https://fett263.com/index.html
 - **Proffie Blade Style**: https://fett263.com/fett263-proffieOS6-style-library.html
+- **Sound Fonts**: https://www.greyscalefonts.com/free_stuff
 - **Mentors**: https://gobblerconnect.vt.edu/organization/lcvt
 
 ## License

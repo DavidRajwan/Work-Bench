@@ -1,0 +1,5 @@
+# Ignore Virtual Enviornment
+Scripts
+Lib
+Include
+Alien_Invasion\pyvenv.cfg

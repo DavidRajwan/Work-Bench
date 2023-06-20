@@ -19,7 +19,10 @@ This repository contains a collection of my home projects, including coding game
 
 - **Book**: Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)
 - **Author**: Eric Matthes
-- **Date**: 2019 <br />
+- **Date**: 2019 
+
+<br />
+
 - **ProffieOS**: https://github.com/profezzorn/ProffieOS
 - **Proffie Board**: http://fredrik.hubbe.net/lightsaber/v6/
 - **ProffieOS**: https://fett263.com/index.html

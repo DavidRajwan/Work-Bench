@@ -41,7 +41,7 @@ In the "Working with APIs" section, we explore interacting with web APIs. It cov
 - **Author**: Eric Matthes
 - **Date**: 2019 
 
-#### Usage
+## Usage
 
 To run the scripts, follow these steps:
 

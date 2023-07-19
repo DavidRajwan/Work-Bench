@@ -30,6 +30,12 @@ This repository contains a collection of my home projects, including coding game
 - **Sound Fonts**: https://www.greyscalefonts.com/free_stuff
 - **Mentors**: https://gobblerconnect.vt.edu/organization/lcvt
 
+<br />
+
+- **Tutorial Followed**: OpenCV Course - Full Tutorial with Python
+- **Link**: https://www.youtube.com/watch?v=oXlwWbU8l2o&ab_channel=freeCodeCamp.org
+- **DataSet**: https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset?resource=download-directory
+
 ## License
 
 This repository is licensed under the DAVID RAJWAN LICENSE. You can find more details in the [DAVID RAJWAN](DR) file.

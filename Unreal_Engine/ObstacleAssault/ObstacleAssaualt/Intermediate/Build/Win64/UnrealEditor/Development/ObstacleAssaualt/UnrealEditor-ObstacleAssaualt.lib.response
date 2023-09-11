@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssaualt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\ObstacleAssaualtEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\MovingPlatform.gen.cpp.obj"
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\ObstacleAssaualt.init.gen.cpp.obj"
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\MovingPlatform.cpp.obj"
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\ObstacleAssaualt.cpp.obj"
+"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\Default.rc2.res"
+/OUT:"C:\Users\David\Documents\Unreal Projects\Udemy\ObstacleAssault\ObstacleAssaualt\Intermediate\Build\Win64\UnrealEditor\Development\ObstacleAssaualt\UnrealEditor-ObstacleAssaualt.lib"

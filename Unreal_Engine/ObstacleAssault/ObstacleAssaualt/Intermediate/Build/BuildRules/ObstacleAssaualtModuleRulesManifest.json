@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\ObstacleAssaualt.Build.cs",
+		"C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt.Target.cs",
+		"C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualtEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

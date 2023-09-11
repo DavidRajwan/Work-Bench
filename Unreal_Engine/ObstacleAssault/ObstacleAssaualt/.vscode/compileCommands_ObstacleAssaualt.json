@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\.vscode\\compileCommands_ObstacleAssaualt\\ObstacleAssaualt.249.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\.vscode\\compileCommands_ObstacleAssaualt\\ObstacleAssaualt.249.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\ObstacleAssaualt.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\.vscode\\compileCommands_ObstacleAssaualt\\ObstacleAssaualt.249.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\ObstacleAssaualt.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\.vscode\\compileCommands_ObstacleAssaualt\\ObstacleAssaualt.249.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt\\ObstacleAssaualt.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\.vscode\\compileCommands_ObstacleAssaualt\\ObstacleAssaualt.249.rsp"
+		],
+		"directory": "E:\\Program Files (x86)\\UE_5.1\\Engine\\Source"
+	}
+]

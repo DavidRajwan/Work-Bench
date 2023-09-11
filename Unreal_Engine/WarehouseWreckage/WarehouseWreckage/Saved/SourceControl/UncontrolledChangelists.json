@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/WareHouse.umap",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/Main.umap",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"C:/Users/David/Documents/Unreal Projects/Udemy/WarehouseWreckage/WarehouseWreckage/Content/temp.umap"
+			]
+		}
+	]
+}

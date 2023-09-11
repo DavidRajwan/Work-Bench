@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleAssaualt",
+			"Path": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualt.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleAssaualtEditor",
+			"Path": "C:\\Users\\David\\Documents\\Unreal Projects\\Udemy\\ObstacleAssault\\ObstacleAssaualt\\Source\\ObstacleAssaualtEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\documents\\unreal projects\\udemy\\obstacleassault\\obstacleassaualt\\source\\obstacleassaualt\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\documents\\unreal projects\\udemy\\obstacleassault\\obstacleassaualt\\intermediate\\build\\win64\\obstacleassaualteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\david\\documents\\unreal projects\\udemy\\obstacleassault\\obstacleassaualt\\intermediate\\build\\win64\\unrealeditor\\development\\obstacleassaualt\\definitions.obstacleassaualt.h",
+            "c:\\users\\david\\documents\\unreal projects\\udemy\\obstacleassault\\obstacleassaualt\\source\\obstacleassaualt\\movingplatform.h",
+            "c:\\users\\david\\documents\\unreal projects\\udemy\\obstacleassault\\obstacleassaualt\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassaualt\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
